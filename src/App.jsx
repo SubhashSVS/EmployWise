@@ -3,7 +3,6 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import Dashboard from './pages/Dashboard'
 import Signup from './pages/Signup'
 import Signin from './pages/Signin'
-import Edit from './pages/Edit'
 
 function App() {
   const [count, setCount] = useState(0)
